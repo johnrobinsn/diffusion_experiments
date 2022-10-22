@@ -11,9 +11,10 @@ This notebook demonstrates using [StableDiffusion](https://stability.ai/blog/sta
 [@jeremyphoward](https://twitter.com/jeremyphoward) gives a great [explanation of how it works here.](https://twitter.com/jeremyphoward/status/1583667503091548161)
 
 
-
 <br/>
-<video width=600 src="https://github.com/johnrobinsn/diffusion_experiments/blob/main/tree.mp4?raw=true" type="video/mp4">
+<video width=600 controls>
+<source src="https://github.com/johnrobinsn/diffusion_experiments/blob/main/tree.mp4?raw=true" type="video/mp4">
 </video>
+
 
 Follow me on twitter [johnrobinsn](https://twitter.com/johnrobinsn)
