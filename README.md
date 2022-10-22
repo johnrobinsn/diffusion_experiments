@@ -1,5 +1,7 @@
 # diffusion_experiments
 
+Follow me on twitter [johnrobinsn](https://twitter.com/johnrobinsn)
+
 # TreeDiffusion.ipynb - Making a Video from Prompts with Stable Diffusion
 
 _by John Robinson_
@@ -13,4 +15,4 @@ This notebook demonstrates using [StableDiffusion](https://stability.ai/blog/sta
 
 ![Snowy Tree](https://github.com/johnrobinsn/diffusion_experiments/blob/main/images/tree_snow.png?raw=true)
 
-Follow me on twitter [johnrobinsn](https://twitter.com/johnrobinsn)
+Also, Thanks to [johnowhitaker](https://twitter.com/johnowhitaker) and his youtube channel, [DataScienceCastnet](https://www.youtube.com/channel/UCP6gT9X2oXYcssfZu05RV2g) for his great content on Stable Diffusion and ML.
