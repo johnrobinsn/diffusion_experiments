@@ -1,4 +1,6 @@
 tree_frames/**
 tree_frames_quick/**
+tree_frames_prompt/**
 tree_quick.mp4
+tree_prompt.mp4
 *-checkpoint.ipynb
