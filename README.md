@@ -2,6 +2,9 @@
 
 Follow me on twitter [johnrobinsn](https://twitter.com/johnrobinsn)
 
+# DiffEdit.ipynb - An implementation of DiffEdit using Stable Diffusion
+[Colab](https://colab.research.google.com/github/johnrobinsn/diffusion_experiments/blob/main/DiffEdit.ipynb)
+
 # TreeDiffusion.ipynb - Making a Video from Prompts with Stable Diffusion
 
 _by John Robinson_
